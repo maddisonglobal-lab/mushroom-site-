@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Madd Shrooms | Sovereign Mycology</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;600&display=swap" rel="stylesheet">
+    <style>
+        /* This is the CSS (The Presentation/Style) */
+        body {
+            background: radial-gradient(circle at center, #1a1c2c 0%, #07080a 100%);
+            color: #e0e0e0;
+            font-family: 'Outfit', sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            overflow: hidden;
+        }
+
+        .container {
+            text-align: center;
+            padding: 40px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            background: rgba(255, 255, 255, 0.03);
+            border-radius: 24px;
+            backdrop-filter: blur(10px); /* This gives that cool 'glass' effect */
+            max-width: 500px;
+            box-shadow: 0 20px 50px rgba(0,0,0,0.5);
+        }
+
+        h1 {
+            font-weight: 600;
+            letter-spacing: 4px;
+            text-transform: uppercase;
+            margin: 0;
+            background: linear-gradient(to right, #00ffa3, #00d4ff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        p {
+            font-weight: 300;
+            font-size: 1.1em;
+            letter-spacing: 1px;
+            margin: 20px 0;
+            opacity: 0.8;
+        }
+
+        .status-badge {
+            background: rgba(0, 255, 163, 0.1);
+            color: #00ffa3;
+            padding: 8px 16px;
+            border-radius: 50px;
+            font-size: 0.8em;
+            text-transform: uppercase;
+            border: 1px solid rgba(0, 255, 163, 0.3);
+        }
+
+        .footer {
+            margin-top: 40px;
+            font-size: 0.7em;
+            color: #666;
+            text-transform: uppercase;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <span class="status-badge">Cultivation Phase</span>
+        <h1>MADD SHROOMS</h1>
+        <p>Sovereign Mycology Research.<br>Coming Soon.</p>
+    </div>
+
+</body>
+</html>

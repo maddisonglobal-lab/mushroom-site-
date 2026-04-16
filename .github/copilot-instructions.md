@@ -1,0 +1,4 @@
+- [ ] Project scaffolded for Go development.
+- [ ] Confirm Go is available at `/usr/local/go`.
+- [ ] Use `go run .` to launch the starter app.
+- [ ] Use `.vscode/tasks.json` for editor task support.

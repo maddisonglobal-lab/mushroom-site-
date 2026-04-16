@@ -1,4 +1,11 @@
-# Go Long Environment
+# MADD SHROOMS
+### Sovereign Mycology Research & Development
+**Status:** Cultivation Phase (Pre-Launch)
+*Dedicated to the exploration and production of high-fidelity functional mushroom tinctures.*
+
+---
+
+## Go Long Environment
 
 A minimal Go workspace scaffolded for development.
 
